@@ -1,6 +1,6 @@
-# Open Certification Prep (Português - pt-br)
+# Open Certification Prompts (Português - pt-br)
 
-Bem-vindo ao **Open Certification Prep**, um repositório open-source que fornece prompts de prática para exames de certificação. Este repositório tem como objetivo ajudar candidatos a se prepararem para exames de certificação, oferecendo simulações interativas e realistas que refletem o estilo e a complexidade dos exames oficiais.
+Bem-vindo ao **Open Certification Prompts**, um repositório open-source que fornece prompts de prática para exames de certificação. Este repositório tem como objetivo ajudar candidatos a se prepararem para exames de certificação, oferecendo simulações interativas e realistas que refletem o estilo e a complexidade dos exames oficiais.
 
 ## Visão Geral
 

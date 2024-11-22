@@ -1,6 +1,6 @@
-# Open Certification Prep
+# Open Certification Prompts
 
-Welcome to **Open Certification Prep**, an open-source repository providing practice prompts for certification exams. This repository aims to help candidates prepare for certification exams by offering interactive and realistic simulations that reflect the style and complexity of official exams.
+Welcome to **Open Certification Prompts**, an open-source repository providing practice prompts for certification exams. This repository aims to help candidates prepare for certification exams by offering interactive and realistic simulations that reflect the style and complexity of official exams.
 
 ## Overview
 
@@ -49,7 +49,7 @@ This repository contains prompts designed to simulate certification exam questio
 ## Repository Structure
 
 ```
-open-certification-prep/
+open-certification-prompts/
 ├── pt-br/
 │   ├── aws/
 │   │   ├── 01-foundational/

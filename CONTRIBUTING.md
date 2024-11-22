@@ -1,6 +1,6 @@
 # Contribution Guide
 
-Thank you for considering contributing to the **Open Certification Prep** project! This document provides guidelines and best practices for contributing to the repository.
+Thank you for considering contributing to the **Open Certification Prompts** project! This document provides guidelines and best practices for contributing to the repository.
 
 ## Table of Contents
 
@@ -32,8 +32,8 @@ Key points:
 ```bash
 # Fork the repository
 # Clone your fork
-git clone https://github.com/fabianomonteiro/open-certification-prep.git
-cd open-certification-prep
+git clone https://github.com/fabianomonteiro/open-certification-prompts.git
+cd open-certification-prompts
 
 # Create a branch for your contribution
 git checkout -b feature/new-contribution
