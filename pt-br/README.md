@@ -65,7 +65,7 @@ pt-br/
 │   │   └── solutions-architect.md
 │   └── 04-specialty/
 │       └── machine-learning.md
-├── README.md
+└── README.md
 ```
 
 ## Como Usar

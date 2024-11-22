@@ -50,10 +50,6 @@ This repository contains prompts designed to simulate certification exam questio
 
 ```
 open-certification-prep/
-├── README.md
-├── LICENSE
-├── CONTRIBUTING.md
-├── template.md
 ├── pt-br/
 │   ├── aws/
 │   │   ├── 01-foundational/
@@ -73,6 +69,10 @@ open-certification-prep/
 │   │       ├── networking.md
 │   │       └── security.md
 │   ├── README.md
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+└── template.md
 ```
 
 ## How to Use
